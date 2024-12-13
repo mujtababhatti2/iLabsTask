@@ -77,9 +77,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.ilabstesttask"
+    namespace "com.ilabstaskproject"
     defaultConfig {
-        applicationId "com.ilabstesttask"
+        applicationId "com.ilabstaskproject"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
